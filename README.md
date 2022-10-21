@@ -15,6 +15,7 @@ and then loaded by lk2nd.
 - SDM632
 
 ### Supported devices
+- Motorola Moto G6 (ali)
 - Motorola Moto G4 Play (harpia)
 - Samsung Galaxy A3 (2015) - SM-A300FU
 - Samsung Galaxy A5 (2015) - SM-A500FU
